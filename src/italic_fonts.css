@@ -1,0 +1,71 @@
+/* The all link from https://fonts.google.com/ */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* https://fonts.google.com/specimen/Roboto */
+/* Roboto italic fonts */
+/* in css: font-family: 'Roboto', sans-serif;  */
+/* font-weight here: 100, 300, 400, 500, 700, 900  */
+.roboto{
+    font-family: 'Roboto', sans-serif; 
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,400;1,700&display=swap');
+/* https://fonts.google.com/noto/specimen/Noto+Sans */
+/* Noto Sans italic fonts */
+/* in css: font-family: 'Noto Sans', sans-serif;  */
+/* font-weight here: 400, 700 */
+.n_sans{
+    font-family: 'Noto Sans', sans-serif; 
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+/* https://fonts.google.com/specimen/Open+Sans */
+/* Open Sans italic fonts */
+/* in css: font-family: 'Open Sans', sans-serif; */
+/* font-weight here: 300, 400, 500, 600, 700, 800 */
+.o_sans{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300;1,400;1,500;1,700&display=swap');
+/* https://fonts.google.com/specimen/Ubuntu */
+/* Ubuntu italic fonts */
+/* in css: font-family: 'Ubuntu', sans-serif; */
+/* font-weight here: 300, 400, 500, 700 */
+.ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* https://fonts.google.com/specimen/Poppins */
+/* Poppins italic fonts */
+/* in css: font-family: 'Poppins', sans-serif;*/
+/* font-weight here: 100, 200, 300, 400, 500, 600, 700, 800, 900 */
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');
+/* https://fonts.google.com/specimen/Source+Code+Pro */
+/* Source Code Pro italic font */
+/* in css: font-family: 'Source Code Pro', monospace; */
+/* font-weight here: 200, 300, 400, 500, 600, 700, 900 */
+.s_code_p{
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* https://fonts.google.com/specimen/Overpass */
+/* Overpass italic font */
+/* in css: font-family: 'Overpass', sans-serif; */
+/* font-weight here: 100, 200, 300, 400, 500, 600, 700, 800, 900 */
+.overpass{
+    font-family: 'Overpass', sans-serif;
+}
