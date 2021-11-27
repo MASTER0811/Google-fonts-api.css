@@ -6,11 +6,11 @@
 
 Regular Fonts
 ```html
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/MASTER0811/fonts_regular.css/src/regular_fonts.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/MASTER0811/Google-fonts-api.css/src/regular_fonts.css">
 ```
 Italic Fonts
 ```html
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/MASTER0811/fonts_regular.css/src/italic_fonts.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/MASTER0811/Google-fonts-api.css/src/italic_fonts.css">
 ```
 
 
