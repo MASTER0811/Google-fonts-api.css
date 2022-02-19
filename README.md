@@ -1,7 +1,7 @@
 # Google Fonts
 
 ### About this Fonts
-<p>Google Fonts makes it easy to<br>bring personality and performance to your websites and products .</p>
+- Google Fonts makes it easy to bring personality and performance to your websites and products .
 
 
 Regular Fonts
